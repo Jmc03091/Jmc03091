@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jmc03091
+
 - 👀 I’m interested in ... Programming General
 - 🌱 I’m currently learning ... HTML,CSS,Javascript
 - 💞️ I’m looking to collaborate on ...Javascript
